@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/OkCore.framework/Info.plist</key>
+		<data>
+		aq11AP2HmGBsx8iQxCoZEzDZG1w=
+		</data>
+		<key>Frameworks/OkCore.framework/OkCore</key>
+		<data>
+		w1ENZ78vze8UfwmsSVOKOchgQOw=
+		</data>
+		<key>Frameworks/OkCore.framework/README.md</key>
+		<data>
+		MjBFedPe2aw5bcyuc8c82fPjnQU=
+		</data>
+		<key>Frameworks/OkCore.framework/_CodeSignature/CodeResources</key>
+		<data>
+		vkAKCUTDwj8uMCCwYVD2H1ztmGs=
+		</data>
 		<key>Headers/OkVerify-Swift.h</key>
 		<data>
 		Map3b2KIp8uT4b++PmzC4EB8hT8=
@@ -14,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aRsEyCQ8MvoL+zDZO7ET8ZeD+m0=
+		5s5gP+XPgKC+JEta23gkXg2YNVE=
 		</data>
 		<key>Location.momd/Location.mom</key>
 		<data>
@@ -59,6 +75,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/OkCore.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RgxcZbvsGc4O0+Slh1LnRcmw3i+7sBFsrtgvx9qJA4Q=
+			</data>
+		</dict>
+		<key>Frameworks/OkCore.framework/OkCore</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BgwFkfKIl2K4h6jSxX3V0IO04yGdPk7PcIRaf9aLALs=
+			</data>
+		</dict>
+		<key>Frameworks/OkCore.framework/README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/L0wTGPtmPS31lxNAJ7CdLml9ACm6N61SpsWhspZdnk=
+			</data>
+		</dict>
+		<key>Frameworks/OkCore.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OLJGC95P5i02tWn0r2qGZKopYZ5CAwbPWuj3rDwc864=
+			</data>
+		</dict>
 		<key>Headers/OkVerify-Swift.h</key>
 		<dict>
 			<key>hash2</key>
